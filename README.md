@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kevinz 👨‍💻! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/XdUr7e0X1Kjeg/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW96aHB0NndsdGN2ODA1dWQwNTh2ZnZ4djhhOGpjNGJucXJxa3V4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="230">
 <p><em>CS Student & Passionate Learner <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://github.com/itskevinz">@GitHub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -29,11 +29,11 @@
 <h2> Chào mừng đến với trang của mình <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="230">
 <p>
-  <em>- 👋 Xin chào, mình là Kevinz.<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="30"></br>
+  <em>- 👋 Xin chào, mình là Kevinz.<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="40"></br>
   - 🌱 Mình đang là sinh viên, đam mê lập trình và luôn ham học hỏi.<img src="https://media.giphy.com/media/xBAreNGk5DapO/giphy.gif" width="30"></br>
-  - 💻 Hiện tại mình đang học C++, Python và có kế hoạch mở rộng sang các ngôn ngữ khác.<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30"></br>
-  - 🚀 Mình luôn sẵn sàng và mong muốn được tham gia vào các dự án thực tế để phát triển bản thân.<img src="https://media.giphy.com/media/GyJ8p0Um850ic/giphy.gif" width="30"></br>
-  - 📫 Rất vui được kết nối và hợp tác cùng mọi người!<img src="https://media.giphy.com/media/eQZPrashbH9vy/giphy.gif" width="30"></em>
+  - 💻 Hiện tại mình đang học C++, Python và có kế hoạch mở rộng sang các ngôn ngữ khác.<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40"></br>
+  - 🚀 Mình luôn sẵn sàng và mong muốn được tham gia vào các dự án thực tế để phát triển bản thân.<img src="https://media.giphy.com/media/GyJ8p0Um850ic/giphy.gif" width="40"></br>
+  - 📫 Rất vui được kết nối và hợp tác cùng mọi người!<img src="https://media.giphy.com/media/eQZPrashbH9vy/giphy.gif" width="40"></em>
 </p>
 
 <!---
