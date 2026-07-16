@@ -11,7 +11,7 @@
 const kevinz = {
   status: "CS Student",
   traits: ["Active", "Eager to learn"],
-  current_languages: ["C++", "Python"],
+  code: [Javascript, HTML, CSS, Python, Java, CC++,...],
   future_goals: "Planning to expand my tech stack with new programming languages.",
   interests: ["Open Source", "Software Engineering", "Innovative Projects"],
   foreign_languages: ["Vietnamese", "English"],
