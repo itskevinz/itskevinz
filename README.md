@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kevinz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW96aHB0NndsdGN2ODA1dWQwNTh2ZnZ4djhhOGpjNGJucXJxa3V4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="230">
-<p><em>CS Student & Passionate Learner <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ1NjU0MzJhN3lrYnBiZWJqNWR6MzI3Z3B6czVrN3Vmdjdkc25vOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f54Or4wFysQ7vVGeKb/giphy.gif" width="30"></br>Software Engineer at <a href="https://github.com/itskevinz">@GitHub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS Student & Passionate Learner <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQweW1nOW84dGZoZmw5bTE5NTF3ZzFnNWRiZWh0ZHo1aWkyOHNrcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="30"></br>Software Engineer at <a href="https://github.com/itskevinz">@GitHub</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![](https://img.shields.io/badge/GitHub-itskevinz-blue?style=flat&logo=github)](https://github.com/itskevinz)
