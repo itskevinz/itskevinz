@@ -14,12 +14,12 @@ const kevinz = {
   code: [Javascript, HTML, CSS, Python, Java, CC++,...],
   tools: [Github, Backend, terminal Linux, Jetbrains, Figma],
   languages: ["Vietnamese", "English"],
-  tools: {
-    version_control: "Git, GitHub Desktop",
-    googledrive: "save necessary documents",
-    editor: "Visual Studio Code"
-  },
-  challenge: "Continuously improving skills and contributing to meaningful projects."
+  tool:{
+          GithubDesktop: "save code and project"
+          googledrive: "save necessary documents",
+          VisualStudioCode: "used to code any language"
+        }
+ challenge: "I'm focusing on doing something to make myself more atractive!"
 }
 ```
 
