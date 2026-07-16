@@ -29,7 +29,7 @@
 <h2> Chào mừng đến với trang của mình <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="230">
 <p>
-  <em>- 👋 Xin chào, mình là Kevinz.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQweW1nOW84dGZoZmw5bTE5NTF3ZzFnNWRiZWh0ZHo1aWkyOHNrcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" width="40"></br>
+  <em>- 👋 Xin chào, mình là Kevinz.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjQweW1nOW84dGZoZmw5bTE5NTF3ZzFnNWRiZWh0ZHo1aWkyOHNrcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/c39G3b12cyqmEhOxib/giphy.gif" width="90"></br>
   - 🌱 Mình đang là sinh viên, đam mê lập trình và luôn ham học hỏi.<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3QxejdmN2dvMnFoOWE4amV5dGR5YmdlY2JvMXRwdG5xNHEwdDB3diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lfHhjolWxCtpHTWvIV/giphy.gif" width="30"></br>
   - 💻 Hiện tại mình đang học C++, Python và có kế hoạch mở rộng sang các ngôn ngữ khác.<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40"></br>
   - 🚀 Mình luôn sẵn sàng và mong muốn được tham gia vào các dự án thực tế để phát triển bản thân.<img src="https://media.giphy.com/media/GyJ8p0Um850ic/giphy.gif" width="40"></br>
