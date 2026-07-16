@@ -8,7 +8,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-<pre><code>const kevinz = {
+const kevinz = {
   status: "CS Student",
   traits: ["Active", "Eager to learn"],
   current_languages: ["C++", "Python"],
@@ -20,7 +20,7 @@
     editor: "Visual Studio Code"
   },
   challenge: "Continuously improving skills and contributing to meaningful projects."
-};</code></pre>
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy collaborating on projects</b>, so if you want to connect, <b>feel free to reach out!</b></em>
