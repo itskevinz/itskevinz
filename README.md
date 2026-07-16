@@ -12,11 +12,11 @@ const kevinz = {
   status: "CS Student",
   traits: ["Active", "Eager to learn"],
   code: [Javascript, HTML, CSS, Python, Java, CC++,...],
-  future_goals: "Planning to expand my tech stack with new programming languages.",
-  interests: ["Open Source", "Software Engineering", "Innovative Projects"],
-  foreign_languages: ["Vietnamese", "English"],
+  tools: [Github, Backend, terminal Linux, Jetbrains, Figma],
+  languages: ["Vietnamese", "English"],
   tools: {
     version_control: "Git, GitHub Desktop",
+    googledrive: "save necessary documents",
     editor: "Visual Studio Code"
   },
   challenge: "Continuously improving skills and contributing to meaningful projects."
